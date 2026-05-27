@@ -5,3 +5,5 @@ To change the arrival time or charging parameters of the car, change the corresp
 To change the characteristics of the car, change the data in the: Characteristics of the car section.
 
 Updates end of the file.
+
+In planning - adding the calculation of AVG speed.
